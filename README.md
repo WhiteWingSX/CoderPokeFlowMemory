@@ -18,4 +18,4 @@ NOTA:
 Para poder funcionar el codigo debe descargar los modulos de Node
 ````
 
-[PokeFlow-Memory](https://app.netlify.com/sites/coderpokeflowmemory/overview)
+[PokeFlow-Memory](https://coderpokeflowmemory.netlify.app)
