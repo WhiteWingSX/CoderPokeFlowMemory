@@ -8,4 +8,14 @@ simula un juego de momeria con tematica de Pokémon en cual se debera encontrar 
 poder ganar la partida, este cuenta con sprites desde la PokeAPI, y la libreria Howler.js en cual se 
 controla el sonido.
 
-[PokeFlow-Memory]()
+````
+NOTA:
+Version de despliegue no cuenta con sonido
+````
+
+````
+NOTA:
+Para poder funcionar el codigo debe descargar los modulos de Node
+````
+
+[PokeFlow-Memory](https://app.netlify.com/sites/coderpokeflowmemory/overview)
